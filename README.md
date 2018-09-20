@@ -10,7 +10,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   fortnox:
-    github: your-github-user/fortnox
+    github: kevinsjoberg/fortnox
 ```
 
 ## Usage

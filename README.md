@@ -1,6 +1,6 @@
 # fortnox
 
-[Crystal](https://crystal-lang.org/) shard for working with the
+[Crystal](https://crystal-lang.org/) shard for the
 [Fortnox](https://www.fortnox.se/) API.
 
 ## Installation

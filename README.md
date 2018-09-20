@@ -1,6 +1,7 @@
 # fortnox
 
-TODO: Write a description here
+[Crystal](https://crystal-lang.org/) shard for working with the
+[Fortnox](https://www.fortnox.se/) API.
 
 ## Installation
 
